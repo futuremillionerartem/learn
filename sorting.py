@@ -42,13 +42,5 @@ class Sorter:
         return array
                 
 
-
-    def quick_sort(array):
-        pass
-
-
-    def merge_sort(array):
-        pass
-
     
 s = Sorter()
